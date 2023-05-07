@@ -500,7 +500,8 @@ class HomePage extends StatelessWidget {
           Text("Sample 1"),
           Text("Sample 2"),
           Text("Sample 3"),
-          Text("Sample 4")
+          Text("Sample 4"),
+          Text("Sample 5"),
         ],
       ),
     );
